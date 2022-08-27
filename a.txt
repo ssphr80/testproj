@@ -3,3 +3,4 @@ first file
 secondline
 
 sdff
+thesh
